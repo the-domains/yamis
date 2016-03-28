@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[yamis]]></title>
         <description><![CDATA[yamis]]></description>
-        <link>https://thegrid.ai/yamis/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 23:12:15 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/yamis/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Santorini]]></title>
-            <description><![CDATA[<article><h1>Santorini</h1><h2>Food</h2><p>A Guide to Santorini</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc0fd40e-58fd-42be-a244-ab0aa31d8956.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yamis/santorini/index.html</link>
-            <guid isPermaLink="false">c53c9c0c-84e0-4efc-9f80-0bef4042c0f4</guid>
-            <pubDate>Mon, 28 Mar 2016 23:11:58 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 28 Mar 2016 23:12:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La Plagne, France.]]></title>
             <description><![CDATA[<article><h1>La Plagne, France.</h1><p>La Plagne, France</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeb0e208-30fc-406d-b86f-1d9f04068fdf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yamis/snowboarding-2010/index.html</link>
+            <link>undefinedsnowboarding-2010/index.html</link>
             <guid isPermaLink="false">19cc75bd-d387-45d0-9c11-2e0eba22e7c0</guid>
             <pubDate>Mon, 28 Mar 2016 23:11:58 GMT</pubDate>
         </item>
