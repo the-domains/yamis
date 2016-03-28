@@ -1,7 +1,7 @@
 name: yamis
 favicon: null
-layout_spectrum: 0.6048168330453336
-typography_spectrum: 0.893423484172672
+layout_spectrum: 0.83567
+typography_spectrum: 0.78141
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#6184b1'
     - '#850413'
     - '#d7a322'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+  brandStrength: 0.0625
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
