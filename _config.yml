@@ -28,13 +28,13 @@ color:
     - '#53627f'
     - '#2b2c31'
   rhythmicContrast: 0.7921147
-typography_spectrum: 0.78141
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.17173
+typography_spectrum: 0.4175627
+layout_spectrum: 0.04480287
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
