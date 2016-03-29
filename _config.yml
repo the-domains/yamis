@@ -1,5 +1,7 @@
-favicon: null
-name: yamis
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +29,12 @@ color:
     - '#E7472F'
     - '#E7AE2D'
     - '#8699DE'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 typography_spectrum: 0.4175627
-layout_spectrum: 0.2598566
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.2598566
+favicon: null
+name: yamis
