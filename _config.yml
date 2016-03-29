@@ -1,5 +1,7 @@
-favicon: null
-name: yamis
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,19 +20,17 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.5215054
+  saturation: 0
   brandStrength: 0.5358423
-  lightness: 0.5053763
+  lightness: 1
   brandColors:
     - '#FFF6F7'
   rhythmicContrast: 0.4928315
 typography_spectrum: 0.4175627
-layout_spectrum: 0.4301075
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.4301075
+favicon: null
+name: yamis
