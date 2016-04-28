@@ -1,8 +1,5 @@
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.1672932
 opengraph:
   image: null
   type: null
@@ -26,11 +23,14 @@ color:
   lightness: 1
   brandColors:
     - '#FFF6F7'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 typography_spectrum: 0
-layout_spectrum: 0.2637845
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: yamis
