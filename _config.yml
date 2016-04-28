@@ -1,7 +1,8 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -12,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0
@@ -25,12 +26,11 @@ color:
   lightness: 1
   brandColors:
     - '#FFF6F7'
-  rhythmicContrast: 0.4928315
-typography_spectrum: 0.4175627
-layout_spectrum: 0.4301075
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
+  rhythmicContrast: 0
+typography_spectrum: 0
+layout_spectrum: 0.2637845
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: yamis
